@@ -17,6 +17,4 @@ public interface Constants {
 
     final public static String SCRIPT_TAG = "script";
     final public static String SEARCH_KEY = "wui.api_data =\n";
-
-    final public static String CURRENT_OBSERVATION = "current_observation";
 }
